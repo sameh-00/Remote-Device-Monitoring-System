@@ -23,8 +23,8 @@ The system is divided into four main components:
 ---
 
 ## FTP & Hosting
-- **FTP Server for Scripts:** [MonsterASP](https://www.monsterasp.net/)  
-- **Database Hosting:** [InfinityFree](https://dash.infinityfree.com/)  
+- **FTP Server for Scripts:** [InfinityFree](https://dash.infinityfree.com/)
+- **Database Hosting:** [MonsterASP](https://www.monsterasp.net/) 
 
 Scripts and image files are transferred securely via FTP and managed centrally through the dashboard.
 
