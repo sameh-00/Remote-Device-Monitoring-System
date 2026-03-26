@@ -30,16 +30,6 @@ Scripts and image files are transferred securely via FTP and managed centrally t
 
 ---
 
-## GUI Examples
-
-**Image Downloader GUI**  
-<img src="path_to_your_image1.png" alt="FTP Image Downloader GUI" width="600">
-
-**Device Startup Script GUI**  
-<img src="path_to_your_image2.png" alt="Startup Script Downloader GUI" width="600">
-
----
-
 ## Technologies Used
 - Python (for agents and downloaders)  
 - FTP for file transfer  
